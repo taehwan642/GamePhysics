@@ -385,9 +385,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <None Include="DXUT\Optional\directx.ico" />
+    <ClInclude Include="CenterofGravity.h" />
     <ClInclude Include="DXUT\Core\DXUT.h" />
     <ClInclude Include="DXUT\Core\DXUTenum.h" />
     <ClInclude Include="DXUT\Core\DXUTmisc.h" />
+    <ClCompile Include="CenterofGravity.cpp" />
     <ClCompile Include="DXUT\Core\DXUT.cpp">
       <PrecompiledHeader>Create</PrecompiledHeader>
     </ClCompile>

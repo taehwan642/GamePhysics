@@ -15,6 +15,9 @@
       <UniqueIdentifier>{2c3d4c8c-5d1a-459a-a05a-a4e4b608a44e}</UniqueIdentifier>
       <Extensions>fx;fxh;hlsl</Extensions>
     </Filter>
+    <Filter Include="1Physics">
+      <UniqueIdentifier>{e285d2c4-b2a5-481e-8432-20361f8a2b64}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="DXUT\Optional\directx.ico">
@@ -79,6 +82,9 @@
     <ClCompile Include="Physics2D.cpp">
       <Filter>0Default</Filter>
     </ClCompile>
+    <ClCompile Include="CenterofGravity.cpp">
+      <Filter>1Physics</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CLInclude Include="resource.h">
@@ -87,6 +93,9 @@
     <ResourceCompile Include="Physics2D.rc">
       <Filter>0Default\Resource Files</Filter>
     </ResourceCompile>
+    <ClInclude Include="CenterofGravity.h">
+      <Filter>1Physics</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
