@@ -1,0 +1,5 @@
+﻿  DXUTenum.cpp
+  Physics2D.cpp
+  코드를 생성하고 있습니다...
+DXUT.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  Physics2D_2010.vcxproj -> D:\Programming\GamePhysics\Physics2D\Debug\Physics2D.exe

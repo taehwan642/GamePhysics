@@ -1,0 +1,2 @@
+D:\Programming\GamePhysics\Physics2D\Debug\Physics2D.exe
+D:\Programming\GamePhysics\Physics2D\Debug\Physics2D.pdb
